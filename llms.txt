@@ -1,0 +1,26 @@
+# LinkedIn Job Change Tracker
+
+> Schedule this on profile URLs you already have. A later run alerts you when the employer or the headline has changed.
+
+Mawsool publishes this as an Apify Actor. Starting from $0.30 per 1,000.
+
+## Run
+
+- Apify Actor: https://apify.com/oday/mawsool-linkedin-job-change-watch
+- Call: `oday/mawsool-linkedin-job-change-watch`
+- API key: https://mawsool.tech/ and https://docs.mawsool.tech/
+- Contact: osama@mawsool.tech, info@mawsool.tech
+
+## Use it when
+
+You want a recurring alert, not a one-time export.
+
+## Use something else when
+
+You want one comparison against a company stored in your CRM. Use the Current Company Checker. The URL no longer opens. Use Fix Broken LinkedIn URLs first.
+
+## Page
+
+- Alert when a LinkedIn employer or headline changes: docs/linkedin-job-change-alerts.md
+
+Mawsool is not affiliated with LinkedIn.
